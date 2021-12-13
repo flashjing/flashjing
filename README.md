@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on natural language processing and machine learning
 - 👀 I’m passionate about sharing! Here is a list of my [recommended courses on ML](https://runawayhorse001.github.io/PythonTipsDS/kaggle.html)
 - 🌱 I’m always curious and there are so many new things to learn!
-- 📝 I'm coauthor of open-sourced and free free book (107 pages)-- [Python and Pyspark Tips for Data Scientist](https://github.com/runawayhorse001/PythonTipsDS)
+- 📝 I'm coauthor of open-sourced and free book (107 pages)-- [Python and Pyspark Tips for Data Scientist](https://github.com/runawayhorse001/PythonTipsDS)
 - 😄 Fun Facts: I grew up in Jingdezhen, China, which is known as the "Porcelain Capital" for producing high quality Chinese ceramics for 1700 years. I now live in Minneapolis - St. Paul metro area. 
 
 
